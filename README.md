@@ -1,4 +1,6 @@
 # OCI Image Format Specification
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgp-fossa%2Fimage-spec.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgp-fossa%2Fimage-spec?ref=badge_shield)
+
 <div>
 <a href="https://travis-ci.org/opencontainers/image-spec">
 <img src="https://travis-ci.org/opencontainers/image-spec.svg?branch=master"></img>
@@ -141,6 +143,9 @@ then you just add a line to every git commit message:
 using your real name (sorry, no pseudonyms or anonymous contributions.)
 
 You can add the sign off when creating the git commit via `git commit -s`.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fgp-fossa%2Fimage-spec.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fgp-fossa%2Fimage-spec?ref=badge_large)
 
 ### Commit Style
 
